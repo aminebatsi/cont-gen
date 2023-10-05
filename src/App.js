@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        jenkins CI/CD
+        Learn React & jenkins CI/CD
         </a>
       </header>
     </div>
